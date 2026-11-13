@@ -1,0 +1,26 @@
+{
+  "name": "billsai",
+  "displayName": "Bills AI",
+  "version": "1.0.0",
+  "description": "Bills AI turns bank statement PDFs into CSV and analyzes spending without bank linking: an assistant can convert a statement PDF, list saved statements and transactions, summarize spending and export CSV through a hosted, read-only MCP server.",
+  "author": {
+    "name": "Bills AI",
+    "email": "support@billsai.cc",
+    "url": "https://billsai.cc"
+  },
+  "homepage": "https://billsai.cc/mcp",
+  "repository": "https://github.com/airdropfi/billsai-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "bank statement",
+    "pdf to csv",
+    "personal finance",
+    "spending",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://billsai.cc/mcp",
+  "supportUrl": "https://billsai.cc/mcp",
+  "privacyPolicyUrl": "https://billsai.cc/privacy",
+  "termsOfServiceUrl": "https://billsai.cc/terms"
+}

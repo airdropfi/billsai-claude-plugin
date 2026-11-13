@@ -1,0 +1,23 @@
+{
+  "name": "billsai-plugins",
+  "description": "Claude Code plugins from Bills AI (billsai.cc).",
+  "owner": {
+    "name": "Bills AI",
+    "email": "support@billsai.cc",
+    "url": "https://billsai.cc"
+  },
+  "plugins": [
+    {
+      "name": "billsai",
+      "source": "./plugins/billsai",
+      "description": "Bills AI turns bank statement PDFs into CSV and analyzes spending without bank linking: an assistant can convert a statement PDF, list saved statements and transactions, summarize spending and export CSV through a hosted, read-only MCP server.",
+      "category": "productivity",
+      "tags": [
+        "bank-statement",
+        "pdf-to-csv",
+        "mcp",
+        "personal-finance"
+      ]
+    }
+  ]
+}
